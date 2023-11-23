@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="Taller3_MJ_ES:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Taller3_MJ_ES</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Taller3_MJ_ES-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Taller3_MJ_ES:war exploded" />
+    </root>
+  </artifact>
+</component>
