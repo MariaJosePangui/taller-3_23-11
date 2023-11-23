@@ -13,7 +13,7 @@
 <br/>
 <a href="GestionEventos.jsp"> Gestion de eventos </a>
 <br/>
-<a href="AdministracionArtistas.jsp"> Administracion de Artistas</a>
+<a href="AdministracionArtistas.jsp"> Administracion de Artistas </a>
 <br/>
 <a href="RegistroControlAsistentes.jsp"> Registro y Control de Asistentes </a>
 <br/>
