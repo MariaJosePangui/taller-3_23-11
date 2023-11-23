@@ -12,7 +12,7 @@ public class DBGenerator {
         DSLContext create = DSL.using(connection);
         crearBaseDato(create, nombreBD);
         create = actualizarConexion(connection, nombreBD);
-        crearTablaUsuario(create);
+
 
         DBConnector.closeConnection();
     }
